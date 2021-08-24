@@ -1,0 +1,8 @@
+log file: log.txt
+K: 5
+C: 50
+E: 3
+P: 100
+T: 200
+S1: 5
+S2: 10
